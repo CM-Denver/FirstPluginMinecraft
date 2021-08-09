@@ -1,0 +1,7 @@
+version: 1.0
+name: FirstPlugin
+main: com.william.plugin.Main
+
+author: me
+description: First PLugin (duh)
+
